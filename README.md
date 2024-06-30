@@ -9,6 +9,9 @@ This project based on visual analysis of a picture using gemini vision and pytho
 ## Install Streamlit
 'pip instal streamlit'
 
+## Run your app with streamlit
+'streamlit run app.py'
+
 ### Using a picture for analysis.
 
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2024/05/crooked-teeth-problem.jpg" width="250">
