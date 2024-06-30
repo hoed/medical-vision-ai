@@ -1,1 +1,1 @@
-google_api_key='AIzaSyB9CCwspc0huHVFsJKugDx6aknGgBSJmi8'
+google_api_key='YOUR_API_KEY'
